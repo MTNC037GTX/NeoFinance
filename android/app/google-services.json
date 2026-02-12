@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382938553946",
+    "project_id": "neofinance-56e7e",
+    "storage_bucket": "neofinance-56e7e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382938553946:android:65de49d0db04fe1c86c263",
+        "android_client_info": {
+          "package_name": "com.example.neofinance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe0cORKjBzVsHGuQctRMGR7O3n5EIYJws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
