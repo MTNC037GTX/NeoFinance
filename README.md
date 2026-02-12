@@ -109,19 +109,16 @@ This architecture ensures adaptability and long-term extensibility.
 
 Frontend Framework: Flutter  
 Programming Language: Dart  
-Architecture: Modular page-based structure  
-Design System: Consistent financial UI components and structured analytics  
 
----
+Backend Services:
+- Firebase Authentication for secure user login and identity management
+- Firebase Firestore for cloud-based NoSQL database storage
+- Real-time data synchronization via Firestore
 
-## Key Financial Calculations
-
-Net Cash Flow = Income - Expense  
-Savings Rate = (Income - Expense) / Income  
-Remaining Budget = Total Budgeted - Total Spent  
-Goal Progress = Current Value / Target Value  
-
-These formulas form the analytical backbone of the application.
+Architecture:
+- Modular page-based structure
+- Structured financial data modeling
+- Scalable cloud-backed architecture
 
 ---
 
